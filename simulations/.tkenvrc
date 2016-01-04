@@ -1,0 +1,4 @@
+# Partial Tkenv config file -- see $HOME/.tkenvrc as well
+inspector "InetUnderlayNetwork" "InetUnderlayNetwork" "2" "1600x845+0+0:iconic"
+inspector "simulation.scheduled-events.CLOSE" "cMessage" "1" "460x319+-2+519:normal"
+

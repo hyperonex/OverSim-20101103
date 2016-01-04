@@ -1,0 +1,5 @@
+#!/bin/sh
+for i in 11 12 13 14 15 16 17 18 19; 
+ do
+	/home/achraf/Development/omnetpp-4.1/projects/OverSim-20101103/src/OverSim-20101103 -r $i -f /home/achraf/Development/omnetpp-4.1/projects/OverSim-20101103/simulations/omnetpp.ini -u Cmdenv -c xHttpGTITMTorrentWithCache
+ done
